@@ -1,0 +1,115 @@
+{
+    "vendor_name": {
+        "value": "COMPANY",
+        "confidence": 0.391
+    },
+    "vendor_address": {
+        "value": "{'houseNumber': '255', 'road': 'Commercial Street', 'postalCode': '25880', 'state': 'New York', 'countryRegion': 'US', 'streetAddress': '255 Commercial Street'}",
+        "confidence": 0.876
+    },
+    "customer_name": {
+        "value": "IMPORTING COMPANY",
+        "confidence": 0.939
+    },
+    "customer_address": null,
+    "invoice_id": {
+        "value": "F1000876/23",
+        "confidence": 0.966
+    },
+    "invoice_date": {
+        "value": "2023-08-14",
+        "confidence": 0.966
+    },
+    "invoice_total": {
+        "value": 702.0,
+        "confidence": 0.95
+    },
+    "due_date": null,
+    "purchase_order": {
+        "value": "X001525",
+        "confidence": 0.535
+    },
+    "subtotal": {
+        "value": 485.0,
+        "confidence": 0.938
+    },
+    "total_tax": {
+        "value": 117.0,
+        "confidence": 0.957
+    },
+    "amount_due": null,
+    "items": [
+        {
+            "description": {
+                "value": "Conveyor Belt 25\"\nCountry of origin: US\nPole with bracket\nCountry of origin: US",
+                "confidence": 0.413
+            },
+            "quantity": {
+                "value": 1.0,
+                "confidence": 0.937
+            },
+            "unit_price": {
+                "value": 85.0,
+                "confidence": 0.953
+            },
+            "amount": {
+                "value": 400.0,
+                "confidence": 0.954
+            }
+        },
+        {
+            "description": {
+                "value": "Pole with bracket\nCountry of origin: US",
+                "confidence": 0.486
+            },
+            "quantity": {
+                "value": 1.0,
+                "confidence": 0.936
+            },
+            "unit_price": {
+                "value": 85.0,
+                "confidence": 0.953
+            },
+            "amount": {
+                "value": 85.0,
+                "confidence": 0.954
+            }
+        },
+        {
+            "description": {
+                "value": "Pole with bracket\nCountry of origin: US",
+                "confidence": 0.538
+            },
+            "quantity": {
+                "value": 1.0,
+                "confidence": 0.751
+            },
+            "unit_price": {
+                "value": 85.0,
+                "confidence": 0.953
+            },
+            "amount": {
+                "value": 85.0,
+                "confidence": 0.954
+            }
+        },
+        {
+            "description": {
+                "value": "Pole with bracket\nCountry of origin: US",
+                "confidence": 0.486
+            },
+            "quantity": {
+                "value": 1.0,
+                "confidence": 0.937
+            },
+            "unit_price": {
+                "value": 85.0,
+                "confidence": 0.953
+            },
+            "amount": {
+                "value": 85.0,
+                "confidence": 0.954
+            }
+        }
+    ]
+}
